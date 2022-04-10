@@ -1,0 +1,11 @@
+{
+  "client": {
+    "email": "firebase-adminsdk-yocej@webflystore.iam.gserviceaccount.com"
+  },
+  "private": {
+    "key": "-----BEGIN PRIVATE KEY-----\\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQC1DO02foytqt4X\\n3GzsY2QHEh39Bj6OCqHr0AQwYMIE/hH8bnSIie4oEERn14zpW/G3ZM3QwyEePwSE\\nck8eG6ssbq7SU2Uvln3a4XhOjoybeNvaNLJfE4Kq0fr17njSbkfe0qonD70Yo+ss\\nUFX7n7NY0JjRxz2YYTaffDqGtA66/KviugffnjjThpxOY48YdrHWPt+JY90BVwjc\\nBqMb7S/+Um48sSWCsQYCaktIic8gZ5s3TYvveIO6hutsk3e/x0KyuDTB8ZH4/Q0i\\npI6/w0sFsTjqag6KI96/z/HMy1MSQshmB1oN2h8yKP3b4eFhnJVCqsTHcLhnCIiT\\nicGmwiRpAgMBAAECggEAG0y5sA/g8objOkHYgsRx3scSkoaQhCaCR+Zz2z+bwdj1\\nqVSWacgyiwP47JeJ/d4JUpf2mNXzdnYWHkqGN4oAg5Ck973vcf+FNq3s0BuahA7z\\nR7HOe5ubhlpnNxIgUcqjN6wYUA+FeeOtoF70uB5akrfRc0BRv1pZPC8lPA6GchdK\\nVmySgctTBSQf5FGzPe1MjFsHLc+lrh8yHOKpGBVS0t9g6dHEwkKT2QdqUkSdUTtu\\nDC2QuyBj/LEOBCS/aUnIdVQKkKgSDTYsQNyqifQNpdtL3MebPEjPm7w1TQ3cS8n3\\nHLCsLXrA3S+bEymp02igYlw8N+GBTtOtKiRNNEX1iQKBgQDm1m7iuOhvClaUKHB4\\nPpdChzguWYM2oWGRILbjn4vUfrfIo/7JXLUBOyoswPa16Nq8bQIOD1dao3uP3yJF\\ngi3A3/BHqLkiBCiH5FSwMbJhkx8Umxkp02cZQZIUATvhF532VMiqjBLRGF1voFah\\njSEVDwiZ31PKlpbCp9WGjl6DNwKBgQDIySyapmCxXuSRVVDT0RpHu9dL+kh+Oh0m\\nLbDlFOb0mJJqFgLBmCRgfqFITDnxHnRHTc1b+RLU65l1OEvaDoYi4EpxGIfLREBN\\nT+du4qigPYsaTupOdrKD/Um0UDgbq5/tTZxWivoSQpw+u+nUz87EXCJIOpqXsfQu\\nvWYDOkulXwJ/G/PbeZjqjIez9DzxYZ4ystus8e/k87iXF/veKbIoPJMbrjAtqjSP\\ntpZzhPfY6C5KTobkuM8ixNcHH2TlwYUCBVkYv5Su1m+qeMotdyiNcUNfgB9H7Mis\\ns2I9Ti7YEWnKtwmNQxmzLZ7Fsb64vtdYKjSn1fo1K1MQ7oFkWebjiwKBgDLWzVZz\\nHjSLBHDQG2EmpvLW2xK/0q8zY8IQ+6NlgX0ZTKlT3WrLbRqJtaiqtFkbDvIm/wJ0\\ntJH4/agykvIpj0kxZWfxgCC1rVpmCwGGno/ERX5p0OYBI/5LmefwD+ThteLOLfGz\\nytHoz8sKpZBe9cm+Umfbft0+D8ft6PCUSCcdAoGBAOQOvHMnFdMn3TIach4F732M\\nyoT6uV8Q5LnoSEYOM3cQ94d2ujrJkSHTmWcnOSrYj/UMLfzK4eE0nCOdNBlyd2X7\\nbIW16w6JzpfBDPJ2WmDNtQGlSkvEpdS04pKQavxdd6FhW5uah0NVWDkzLh9w7XJA\\nXGI9a6tASmo0tzE6OgfL\\n-----END PRIVATE KEY-----\\n"
+  },
+  "project": {
+    "id": "webflystore"
+  }
+}
